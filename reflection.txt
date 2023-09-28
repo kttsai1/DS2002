@@ -1,0 +1,11 @@
+a. What security mechanisms are in place to make sure the right people can pull the data?
+    A security mechanism that is in place is the API key. This ensures that only people with the key are able to access the data.
+    Another mechanism is limiting the rate that you can pull from the API to ensure that users are not abusing it. 
+    There are also security tokens that enforce data authorization. 
+b.  What kind of errors did you encounter when you tested this? How did you handle it? Was is coding errors? What about errors in how users may use the program?
+    There were some coding errors where my syntax was incorrect and I handled this through looking up the correct way.
+    There are also many errors that can occur due to user input, like putting in a stock that does not exist, or putting in the incorrect URL.
+    There errors were handled through error checking to ensure that users are not able to break the code.
+c. If you didn't know how to code something, what resources did you use? 
+    I used the internet if I did not know how to code something. For example, when writing to a csv or json, 
+    I looked up the API documentation for them and was able to learn from there.
